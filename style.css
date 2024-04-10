@@ -1,0 +1,10 @@
+.solida
+{
+    border: 60px solid red;
+    border-top: 20px dashed blue;
+}
+
+.dotted
+{
+    border-style: dotted;
+}
